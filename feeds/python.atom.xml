@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
 <feed xmlns="http://www.w3.org/2005/Atom"><title>It's all about CODE</title><link href="http://mike915.github.io/" rel="alternate"></link><link href="http://mike915.github.io/feeds/python.atom.xml" rel="self"></link><id>http://mike915.github.io/</id><updated>2010-12-05T19:30:00+01:00</updated><entry><title>My super title</title><link href="http://mike915.github.io/my-super-post.html" rel="alternate"></link><updated>2010-12-05T19:30:00+01:00</updated><author><name>Alexis Metaireau</name></author><id>tag:mike915.github.io,2010-12-03:my-super-post.html</id><summary type="html">&lt;h1&gt;Mou&lt;/h1&gt;
+=======
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Michael Xiao's Blog</title><link href="http://mike915.github.io/" rel="alternate"></link><link href="http://mike915.github.io/feeds/python.atom.xml" rel="self"></link><id>http://mike915.github.io/</id><updated>2010-12-05T19:30:00+01:00</updated><entry><title>My super title</title><link href="http://mike915.github.io/my-super-post.html" rel="alternate"></link><updated>2010-12-05T19:30:00+01:00</updated><author><name>Alexis Metaireau</name></author><id>tag:mike915.github.io,2010-12-03:my-super-post.html</id><summary type="html">&lt;h1&gt;Mou&lt;/h1&gt;
+>>>>>>> 781e2000680277289e9e8036a6b1265eca53783a
 &lt;p&gt;&lt;img alt="Mou icon" src="http://25.io/mou/Mou_128.png" /&gt;&lt;/p&gt;
 &lt;h2&gt;Overview&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Mou&lt;/strong&gt;, the missing Markdown editor for &lt;em&gt;web developers&lt;/em&gt;.&lt;/p&gt;
