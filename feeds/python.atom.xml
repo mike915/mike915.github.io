@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>It's all about CODE</title><link href="http://mike915.github.io/" rel="alternate"></link><link href="http://mike915.github.io/feeds/python.atom.xml" rel="self"></link><id>http://mike915.github.io/</id><updated>2010-12-05T19:30:00+01:00</updated><entry><title>My super title</title><link href="http://mike915.github.io/my-super-post.html" rel="alternate"></link><updated>2010-12-05T19:30:00+01:00</updated><author><name>Alexis Metaireau</name></author><id>tag:mike915.github.io,2010-12-03:my-super-post.html</id><summary type="html">&lt;h1&gt;Mou&lt;/h1&gt;
+&lt;p&gt;&lt;img alt="Mou icon" src="http://25.io/mou/Mou_128.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;Overview&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Mou&lt;/strong&gt;, the missing Markdown editor for &lt;em&gt;web developers&lt;/em&gt;.&lt;/p&gt;
+&lt;h3&gt;Syntax&lt;/h3&gt;
+&lt;h4&gt;Strong and Emphasize&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;strong&lt;/strong&gt; or &lt;strong&gt;strong&lt;/strong&gt; ( Cmd + B )&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;emphasize&lt;/em&gt; or &lt;em&gt;emphasize&lt;/em&gt; ( Cmd + I )&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sometimes I want a lot of text to be bold.
+Like, seriously, a &lt;em&gt;LOT&lt;/em&gt; of text&lt;/strong&gt;&lt;/p&gt;
+&lt;h4&gt;Blockquotes&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Right angle brackets &amp;gt; are used for block quotes.&lt;/p&gt;
+&lt;/blockquote&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry></feed>
