@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>All About Coding</title><link href="mike915.github.io/" rel="alternate"></link><link href="mike915.github.io/feeds/python.atom.xml" rel="self"></link><id>mike915.github.io/</id><updated>2010-12-05T19:30:00+01:00</updated><entry><title>My super title</title><link href="mike915.github.io/my-super-post.html" rel="alternate"></link><updated>2010-12-05T19:30:00+01:00</updated><author><name>Alexis Metaireau</name></author><id>tag:,2010-12-03:mike915.github.io/my-super-post.html</id><summary type="html">&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="gd"&gt;--- Mar 29 to April 4 ---&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h4&gt;Set Up Development Environment&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Xcode:&lt;/strong&gt; &lt;ul&gt;
+&lt;li&gt;The latest Xcode is already in my Mac Pro.&lt;/li&gt;
+&lt;li&gt;Learned how to develop a simple iOS app following the Udacity course &lt;a href="https://www.udacity.com/course/ud585"&gt;Intro to iOS App Development with Swift&lt;/a&gt; in last Xmas holiday.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Android Studio:&lt;/strong&gt; &lt;ul&gt;
+&lt;li&gt;Just installed on my Mac.&lt;/li&gt;
+&lt;li&gt;Android 5.1 (API 22) + Android Support Library&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4&gt;Go Through Parse Document "iOS Guide"&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Focus on "Objects", "Queries" and "Users".&lt;/li&gt;
+&lt;li&gt;"User Interface" is pretty convenient.&lt;/li&gt;
+&lt;li&gt;Dashboard-&amp;gt;Data-&amp;gt;Data browser: directly edit, add, delete data.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Go Through "Anypic" Tutorial&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Focus on "Data Model" Chapter&lt;/li&gt;
+&lt;li&gt;Data model == Classes ?&lt;/li&gt;
+&lt;li&gt;Need to figure out how/where to create a new data object.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Others&lt;/h4&gt;
+&lt;h5&gt;Some Internal Test Tools&lt;/h5&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;TestFlight:&lt;/strong&gt;&lt;ul&gt;
+&lt;li&gt;Supported by Apply, &lt;/li&gt;
+&lt;li&gt;Merely support for iOS apps.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;内测宝:&lt;/strong&gt;&lt;ul&gt;
+&lt;li&gt;Support for both iOS and Android.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5&gt;Register Formal email, Wechat, Facebook, Weibo, etc.&lt;/h5&gt;
+&lt;ol&gt;
+&lt;li&gt;If our app's name is Fanta, we are supposed to register the gmail account, like "fanta@gmail.com".&lt;/li&gt;
+&lt;/ol&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry></feed>
