@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> b7a928be858c8e89109cfe5adc7b744aab690ad2
 <feed xmlns="http://www.w3.org/2005/Atom"><title>All About Coding</title><link href="mike915.github.io/" rel="alternate"></link><link href="mike915.github.io/feeds/python.atom.xml" rel="self"></link><id>mike915.github.io/</id><updated>2010-12-05T19:30:00+01:00</updated><entry><title>My super title</title><link href="mike915.github.io/my-super-post.html" rel="alternate"></link><updated>2010-12-05T19:30:00+01:00</updated><author><name>Alexis Metaireau</name></author><id>tag:,2010-12-03:mike915.github.io/my-super-post.html</id><summary type="html">&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="gd"&gt;--- Mar 29 to April 4 ---&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 
@@ -44,4 +48,28 @@
 &lt;h5&gt;Register Formal email, Wechat, Facebook, Weibo, etc.&lt;/h5&gt;
 &lt;ol&gt;
 &lt;li&gt;If our app's name is Fanta, we are supposed to register the gmail account, like "fanta@gmail.com".&lt;/li&gt;
+<<<<<<< HEAD
 &lt;/ol&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry></feed>
+=======
+&lt;/ol&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry></feed>
+=======
+<<<<<<< HEAD
+<feed xmlns="http://www.w3.org/2005/Atom"><title>It's all about CODE</title><link href="http://mike915.github.io/" rel="alternate"></link><link href="http://mike915.github.io/feeds/python.atom.xml" rel="self"></link><id>http://mike915.github.io/</id><updated>2010-12-05T19:30:00+01:00</updated><entry><title>My super title</title><link href="http://mike915.github.io/my-super-post.html" rel="alternate"></link><updated>2010-12-05T19:30:00+01:00</updated><author><name>Alexis Metaireau</name></author><id>tag:mike915.github.io,2010-12-03:my-super-post.html</id><summary type="html">&lt;h1&gt;Mou&lt;/h1&gt;
+=======
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Michael Xiao's Blog</title><link href="http://mike915.github.io/" rel="alternate"></link><link href="http://mike915.github.io/feeds/python.atom.xml" rel="self"></link><id>http://mike915.github.io/</id><updated>2010-12-05T19:30:00+01:00</updated><entry><title>My super title</title><link href="http://mike915.github.io/my-super-post.html" rel="alternate"></link><updated>2010-12-05T19:30:00+01:00</updated><author><name>Alexis Metaireau</name></author><id>tag:mike915.github.io,2010-12-03:my-super-post.html</id><summary type="html">&lt;h1&gt;Mou&lt;/h1&gt;
+>>>>>>> 781e2000680277289e9e8036a6b1265eca53783a
+&lt;p&gt;&lt;img alt="Mou icon" src="http://25.io/mou/Mou_128.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;Overview&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Mou&lt;/strong&gt;, the missing Markdown editor for &lt;em&gt;web developers&lt;/em&gt;.&lt;/p&gt;
+&lt;h3&gt;Syntax&lt;/h3&gt;
+&lt;h4&gt;Strong and Emphasize&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;strong&lt;/strong&gt; or &lt;strong&gt;strong&lt;/strong&gt; ( Cmd + B )&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;emphasize&lt;/em&gt; or &lt;em&gt;emphasize&lt;/em&gt; ( Cmd + I )&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sometimes I want a lot of text to be bold.
+Like, seriously, a &lt;em&gt;LOT&lt;/em&gt; of text&lt;/strong&gt;&lt;/p&gt;
+&lt;h4&gt;Blockquotes&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Right angle brackets &amp;gt; are used for block quotes.&lt;/p&gt;
+&lt;/blockquote&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry></feed>
+>>>>>>> 2534450bd7473cd2f8fcf0f665cba622aacfd4a0
+>>>>>>> b7a928be858c8e89109cfe5adc7b744aab690ad2
